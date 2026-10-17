@@ -6,7 +6,7 @@ Codex skills that capture repeatable engineering knowledge in a form other peopl
 
 ### `toi-engineering-handover`
 
-Build or review repository-based engineering handover guides. It helps a new maintainer understand the system's purpose, business rules, main paths, safe operating tasks, and unresolved knowledge gaps from inspectable evidence.
+Build or review repository-based engineering handover guides. It helps a new maintainer understand the system's purpose, business rules, main paths, safe operating tasks, and unresolved knowledge gaps from inspectable evidence. The v0.6.0 presentation guide adds named, task-focused layout patterns and reader-interface guidance for static documents and web handovers.
 
 The skill is a complete folder: keep `SKILL.md`, `references/`, and `assets/` together when copying or updating it.
 

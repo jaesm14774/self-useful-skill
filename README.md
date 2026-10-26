@@ -6,7 +6,7 @@ Codex skills that capture repeatable engineering knowledge in a form other peopl
 
 ### `toi-engineering-handover`
 
-Build or review repository-based engineering handover guides. It helps a new maintainer understand the system's purpose, business rules, main paths, safe operating tasks, and unresolved knowledge gaps from inspectable evidence. Version 0.8.0 adds a coverage gate, beginner-first domain onboarding, a committed-version evidence boundary, linked multi-page handovers, architecture-diagram guidance, Notion-ready figures with editable sources, and a mainline-first workflow for contract-based subagent drafting and chief-editor integration.
+Build or review repository-based engineering handover guides. It helps a new maintainer understand the system's purpose, business rules, main paths, safe operating tasks, and unresolved knowledge gaps from inspectable evidence. Version 0.9.0 adds a reader-first layout recipe for data handovers: orient the reader on the first screen, follow one data journey from source to consumer, separate processing strategies and exceptions, then expose operational and code references by task. It keeps the existing coverage gate, evidence boundary, linked multi-page handovers, diagram guidance, and optional contract-based drafting workflow.
 
 The skill is a complete folder: keep `SKILL.md`, `references/`, and `assets/` together when copying or updating it.
 
